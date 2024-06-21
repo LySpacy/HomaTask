@@ -1,0 +1,31 @@
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\bin\Debug\задача 1.exe.config
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\bin\Debug\задача 1.exe
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\bin\Debug\задача 1.pdb
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача_1.Form1.resources
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача_1.Properties.Resources.resources
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.exe
+D:\2 курс\4 семестр\Учебная Практика\задача 1\задача 1\obj\Debug\задача 1.pdb
+C:\Users\Бог\Music\задача 1\задача 1\bin\Debug\задача 1.exe.config
+C:\Users\Бог\Music\задача 1\задача 1\bin\Debug\задача 1.exe
+C:\Users\Бог\Music\задача 1\задача 1\bin\Debug\задача 1.pdb
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача 1.csproj.AssemblyReference.cache
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача_1.Form1.resources
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача_1.Properties.Resources.resources
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача 1.csproj.GenerateResource.cache
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача 1.exe
+C:\Users\Бог\Music\задача 1\задача 1\obj\Debug\задача 1.pdb
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\bin\Debug\задача 1.exe.config
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\bin\Debug\задача 1.exe
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\bin\Debug\задача 1.pdb
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача 1.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача_1.Form1.resources
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача_1.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача 1.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача 1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача 1.exe
+C:\Users\Dmitriy\Desktop\Marcov\задача 1\задача 1\obj\Debug\задача 1.pdb
