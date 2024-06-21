@@ -1,0 +1,73 @@
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.Form1.resources
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+V:\ООАиП\Уравнения\Уравнения\bin\Debug\Уравнения.exe.config
+V:\ООАиП\Уравнения\Уравнения\bin\Debug\Уравнения.exe
+V:\ООАиП\Уравнения\Уравнения\bin\Debug\Уравнения.pdb
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.exe
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.pdb
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.Number.resources
+V:\ООАиП\Уравнения\Уравнения\obj\Debug\Уравнения.YesorNot.resources
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\bin\Debug\Уравнения.exe.config
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\bin\Debug\Уравнения.exe
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\bin\Debug\Уравнения.pdb
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.Form1.resources
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.exe
+C:\Users\егорка\Desktop\Новая папка (2)\Уравнения\Уравнения\obj\Debug\Уравнения.pdb
+E:\Уравнения\Уравнения\bin\Debug\Уравнения.exe.config
+E:\Уравнения\Уравнения\bin\Debug\Уравнения.exe
+E:\Уравнения\Уравнения\bin\Debug\Уравнения.pdb
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.Form1.resources
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.exe
+E:\Уравнения\Уравнения\obj\Debug\Уравнения.pdb
+E:\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+E:\Уравнения\obj\Debug\Уравнения.Form1.resources
+E:\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+E:\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+E:\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+E:\Уравнения\obj\Debug\Уравнения.exe
+E:\Уравнения\obj\Debug\Уравнения.pdb
+E:\Уравнения\bin\Debug\Уравнения.exe.config
+E:\Уравнения\bin\Debug\Уравнения.exe
+E:\Уравнения\bin\Debug\Уравнения.pdb
+G:\Уравнения\bin\Debug\Уравнения.exe.config
+G:\Уравнения\bin\Debug\Уравнения.exe
+G:\Уравнения\bin\Debug\Уравнения.pdb
+G:\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+G:\Уравнения\obj\Debug\Уравнения.csproj.SuggestedBindingRedirects.cache
+G:\Уравнения\obj\Debug\Уравнения.Form1.resources
+G:\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+G:\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+G:\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+G:\Уравнения\obj\Debug\Уравнения.exe
+G:\Уравнения\obj\Debug\Уравнения.pdb
+C:\Users\Бог\Music\задача 3\Уравнения\bin\Debug\Уравнения.exe.config
+C:\Users\Бог\Music\задача 3\Уравнения\bin\Debug\Уравнения.exe
+C:\Users\Бог\Music\задача 3\Уравнения\bin\Debug\Уравнения.pdb
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.Form1.resources
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.Properties.Resources.resources
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.csproj.GenerateResource.cache
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.exe
+C:\Users\Бог\Music\задача 3\Уравнения\obj\Debug\Уравнения.pdb
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\bin\Debug\Уравнения.exe.config
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\bin\Debug\Уравнения.exe
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\bin\Debug\Уравнения.pdb
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.Form1.resources
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.exe
+C:\Users\Dmitriy\Desktop\Marcov\задача 3\задача 3\obj\Debug\Уравнения.pdb

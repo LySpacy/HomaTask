@@ -1,0 +1,10 @@
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\bin\Debug\Уравнения.exe.config
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\bin\Debug\Уравнения.exe
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\bin\Debug\Уравнения.pdb
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\задача 4.csproj.AssemblyReference.cache
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\Уравнения.Form1.resources
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\Уравнения.Properties.Resources.resources
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\задача 4.csproj.GenerateResource.cache
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\задача 4.csproj.CoreCompileInputs.cache
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\Уравнения.exe
+D:\Учеба\Новая папка\Markov\задача 4\задача 4\obj\Debug\Уравнения.pdb
